@@ -26,6 +26,7 @@
     "inquirer": "^6.0.0",
     "prettier": "^1.10.2",
     "rimraf": "^2.6.2",
+    "s3": "git://github.com/andrewrk/node-s3-client.git#0ed018699843a2d3cc1cb37399ead1f76a72576d",
     "yargs-parser": "^10.1.0"
   },
   "homepage": "https://github.com/contentful-userland/gatsby-contentful-starter#readme",
