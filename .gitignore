@@ -67,7 +67,7 @@ public
 .contentful.json
 
 # AWS CLI Creds
-secrets.json
+#secrets.json
 
 # Contentful error files
 contentful-import-error-log*
