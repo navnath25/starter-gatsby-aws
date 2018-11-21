@@ -12,6 +12,8 @@
         "statusText": "Forbidden",
         "message": "The access token you sent could not be found or is invalid.",
         "details": {
+		
+		
         },
         "request": {
           "url": "https://api.contentful.com:443/spaces/iapoimoegayz",

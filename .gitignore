@@ -65,3 +65,11 @@ public
 
 # contentful config file
 .contentful.json
+
+# AWS CLI Creds
+secrets.json
+
+# Contentful error files
+contentful-import-error-log*
+
+

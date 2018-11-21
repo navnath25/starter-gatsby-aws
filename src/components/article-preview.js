@@ -2,7 +2,9 @@ import React from 'react'
 // import Link from 'gatsby-link'
 import Img from 'gatsby-image'
 
+
 // import styles from './article-preview.module.css'
+
 
 export default ({ article }) => (
   <div class="col-md-8 col-xl-6 mx-auto">
@@ -29,10 +31,10 @@ export default ({ article }) => (
 
           <div class="col-auto ml-auto">
             <span>
-              <i class="fa fa-eye pr-1 opacity-60" /> 25
+              <i class="fa fa-eye pr-1 opacity-60" /> 32
             </span>
             <a class="text-inherit ml-5" href="#">
-              <i class="fa fa-comments pr-1 opacity-60" /> 4
+              <i class="fa fa-comments pr-1 opacity-60" /> 7
             </a>
           </div>
         </div>
